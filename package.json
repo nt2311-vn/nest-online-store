@@ -24,6 +24,7 @@
     "@nestjs/core": "^11.0.12",
     "@nestjs/platform-express": "^11.0.12",
     "hbs": "^4.2.0",
+    "hbs-utils": "^0.0.4",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1"
   },
